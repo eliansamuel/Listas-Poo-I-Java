@@ -1,2 +1,2 @@
-# listas-poo-1-java
+# POO - Listas
 Listas de exercícios da matéria de Programação orientada Objeto
