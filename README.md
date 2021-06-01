@@ -1,2 +1,2 @@
 # POO - Listas
-Listas de exercícios da matéria de Programação orientada Objeto
+Listas de exercícios da matéria de Programação Orientada Objeto
